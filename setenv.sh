@@ -6,3 +6,5 @@ export GOOGLE_CLIENT_ID=909046068569-ac4se0jcpeeerlpo98tanv2sqrvfp9nl.apps.googl
 export GOOGLE_SECRET=5AC6Rjh8LEBTFtXO_Rg1PpXR
 export LINKEDIN_KEY=86toqaqma10na6
 export LINKEDIN_SECRET=jwHWVNpfdyONM9am
+export RACK_ENV=development
+export PORT=3000
